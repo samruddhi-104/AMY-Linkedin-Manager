@@ -1,0 +1,3 @@
+# Workflow Architecture
+
+Placeholder documentation.

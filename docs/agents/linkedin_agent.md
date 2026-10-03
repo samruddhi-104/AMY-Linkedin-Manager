@@ -1,0 +1,3 @@
+# LinkedIn Agent
+
+Placeholder documentation.

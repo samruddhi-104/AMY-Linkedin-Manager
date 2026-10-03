@@ -1,0 +1,3 @@
+# Database Schemas
+
+Placeholder documentation.

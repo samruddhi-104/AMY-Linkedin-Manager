@@ -1,0 +1,3 @@
+# Competitor Agent
+
+Placeholder documentation.

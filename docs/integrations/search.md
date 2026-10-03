@@ -1,0 +1,3 @@
+# Search Integration
+
+Placeholder documentation.

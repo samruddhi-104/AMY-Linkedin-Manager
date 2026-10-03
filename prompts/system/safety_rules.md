@@ -1,0 +1,3 @@
+# Safety Rules
+
+Placeholder documentation.

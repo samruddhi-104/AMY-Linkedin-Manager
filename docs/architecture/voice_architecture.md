@@ -1,0 +1,3 @@
+# Voice Architecture
+
+Placeholder documentation.

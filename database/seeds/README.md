@@ -1,0 +1,3 @@
+# Database Seeds
+
+Placeholder documentation.

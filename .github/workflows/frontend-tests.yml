@@ -1,0 +1,4 @@
+# Placeholder GitHub Actions workflow for frontend tests.
+name: frontend-tests
+on: []
+jobs: {}

@@ -1,0 +1,3 @@
+# LinkedIn Integration
+
+Placeholder documentation.

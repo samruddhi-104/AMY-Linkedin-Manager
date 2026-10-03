@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: ctons-amy-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ctons_amy
+      POSTGRES_USER: amy
+      POSTGRES_PASSWORD: amy
+    ports:
+      - "5432:5432"
+    volumes:
+      - amy_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  amy_postgres_data:

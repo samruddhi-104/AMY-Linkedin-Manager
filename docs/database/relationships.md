@@ -1,0 +1,3 @@
+# Database Relationships
+
+Placeholder documentation.

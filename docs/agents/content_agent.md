@@ -1,0 +1,3 @@
+# Content Agent
+
+Placeholder documentation.
